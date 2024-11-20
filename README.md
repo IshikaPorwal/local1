@@ -1,4 +1,4 @@
-# AppianTest1
+# Local Repo
 This is my first project
 <BR>
-Author: Ishika
+Author: Ishika Porwal
